@@ -674,6 +674,9 @@ class _QuestionPageState extends State<QuestionPage> {
       case 1:
         setState(() {
           _width1=MediaQuery.of(context).size.width;
+          _width2=300;
+          _width2=300;
+          _width2=300;
         });
         break;
       case 2:
