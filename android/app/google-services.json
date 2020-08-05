@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1074045241454",
+    "firebase_url": "https://rowwad-b7c15.firebaseio.com",
+    "project_id": "rowwad-b7c15",
+    "storage_bucket": "rowwad-b7c15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074045241454:android:87cb210e67da2a29373e7f",
+        "android_client_info": {
+          "package_name": "com.chakibelfil.rowwadnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074045241454-j7kohcag7n4fd4qekq9jlkiuk2v23nm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE2XRNaJH7XBe1ZoE70pDYVAk9XD4UaGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074045241454-j7kohcag7n4fd4qekq9jlkiuk2v23nm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074045241454:android:945cdc7e1161c6bb373e7f",
+        "android_client_info": {
+          "package_name": "om.chakibelfil.rowwadnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074045241454-j7kohcag7n4fd4qekq9jlkiuk2v23nm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE2XRNaJH7XBe1ZoE70pDYVAk9XD4UaGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074045241454-j7kohcag7n4fd4qekq9jlkiuk2v23nm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
